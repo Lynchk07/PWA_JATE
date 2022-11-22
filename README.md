@@ -16,6 +16,7 @@
 
   WebpackPwaManifest  
   Node.js
+  NPM I
  
 
   ## Usage 
