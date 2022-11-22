@@ -10,7 +10,7 @@
     
   # Description 
 
-  This app is a Progressive Web Application text editor.  
+  This app is a Progressive Web Application text editor. This app is deployed using Heroku. 
 
   ## Installation 
 
